@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="QuizServlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuizServlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="QuizServlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="QuizServlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
